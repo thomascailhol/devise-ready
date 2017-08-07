@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a ready-to-go rails project that includes Bootstrap & Devise (main forms designed with Bootstrap already + Toastr alerts).
 
-Things you may want to cover:
+A simple boilerplate started with a classic rails new (includes test files etc).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Enjoy.
